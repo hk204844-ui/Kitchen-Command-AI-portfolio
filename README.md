@@ -4,6 +4,31 @@
 
 > **Public portfolio repo** — production prompts, Retell agent configs, and credentials remain in **private** repositories.
 
+## Live demo
+
+| | Link |
+|---|------|
+| **Kitchen & admin app** | **https://ai-kitchen-ai.vercel.app** |
+| **Voice ordering (Retell)** | Call **+61 2 5850 4786** — Maya takes your order and sends it to the kitchen board |
+
+## Screenshots
+
+| Platform admin — multi-restaurant |
+|:---:|
+| ![Admin restaurants](docs/screenshots/admin-restaurants.png) |
+
+| Kitchen kanban — voice orders (`VOICE` channel) |
+|:---:|
+| ![Kitchen view](docs/screenshots/kitchen-view.png) |
+
+| Today's orders — revenue & history |
+|:---:|
+| ![Today's orders](docs/screenshots/todays-orders.png) |
+
+| Restaurant settings — hours, menu, busy mode |
+|:---:|
+| ![Settings](docs/screenshots/settings.png) |
+
 ## Problem
 
 Restaurants lose revenue when staff cannot answer the phone during service peaks. Generic IVR cannot take complex food orders. Kitchen teams need a **single live view** of voice orders without manual re-entry.
